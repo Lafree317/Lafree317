@@ -2,7 +2,7 @@
 
 ### Hello adventurer
 This is my tech stack
-- 🌱 Pro Game player 
+- 🌱 Game player
 - 🌱 Indie game producer
 - 🌱 Unity developer
 - 🌱 iOS devloper
